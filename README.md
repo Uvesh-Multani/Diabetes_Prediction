@@ -54,8 +54,8 @@ The project follows these key steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/shsarv/Machine-learning-projects.git
-   cd diabetes-prediction-[End-2-END]/Diabetes-prediction-deployed
+   git clone https://github.com/Uvesh-Multani/Diabetes_Prediction
+   cd Diabetes-prediction-deployed
    ```
 
 2. Install the required dependencies:
@@ -110,5 +110,6 @@ Feel free to contribute by submitting issues or pull requests. For major changes
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
 - [Flask Documentation](https://flask.palletsprojects.com/)
 - [Heroku Documentation](https://devcenter.heroku.com/)
+
 
 ---
